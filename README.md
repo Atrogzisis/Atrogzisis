@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atrogzisis
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python,C
+- 🌱 I’m currently learning Python,C, HTML, C++
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me Discord Atrogz#3122
 

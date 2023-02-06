@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Atrogzisis
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python,C, HTML, C++
 - 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me Discord Atrogz#3122
+- 📫 Reach me on Discord Atrogz#3122
 
 <!---
 Atrogzisis/Atrogzisis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

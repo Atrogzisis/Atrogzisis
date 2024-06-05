@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Atrogzisis
-- 👀 I’m interested in Coding 
+- 👋 Hi, I’m Zisis Trigkas
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,C, HTML, C++
 - 💞️ I’m looking to learn more and get in touch with people that enjoy Cyber Security!
 <!---
